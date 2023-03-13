@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Lato", sans-serif;
+}
+.Main{
+	
+}
+.left-navbar {
+  height: 100%;
+  width: 180px;
+  position: fixed;
+  background-color: #0e2433;
+  padding-top: 60px;
+  float: left;
+  position: absolute;
+
+}
+.left-navbar a{
+	color: white;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	font-size: 20px;
+}
+.left-navbar :hover{
+	color: #45b6fe;
+}
+.right {
+	text-align: center;
+	padding: 30px ;
+}
+.about{
+	display:inherit;
+}
+.about p{
+	justify-content: center;
+	padding: 50px 50px;
+}
+h2{
+	text-align: center;
+}
+.main
+{
+	margin-left: 180px;
+	position: absolute;
+	text-align: justify;
+	padding: 70px 70px;
+	color: black;
+}
+.main p{
+	margin-top: 20px;
+}
+
+
